@@ -10,7 +10,7 @@
 
 **Rimworld Trainer 2026** is the most advanced and comprehensive modification utility designed specifically for Rimworld enthusiasts. Experience complete control over your gameplay with our meticulously crafted feature set.
 
-### 🎯 Key Features
+### 🎯 Key Features:
 
 - **Infinite Resources** - Never worry about shortages again
 - **God Mode** - Make your colonists invincible
